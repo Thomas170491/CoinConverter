@@ -1,0 +1,14 @@
+/home/thomas/Desktop/CoinConverter/bin/Debug/net8.0/CoinConverter
+/home/thomas/Desktop/CoinConverter/bin/Debug/net8.0/CoinConverter.deps.json
+/home/thomas/Desktop/CoinConverter/bin/Debug/net8.0/CoinConverter.runtimeconfig.json
+/home/thomas/Desktop/CoinConverter/bin/Debug/net8.0/CoinConverter.dll
+/home/thomas/Desktop/CoinConverter/bin/Debug/net8.0/CoinConverter.pdb
+/home/thomas/Desktop/CoinConverter/obj/Debug/net8.0/CoinConverter.GeneratedMSBuildEditorConfig.editorconfig
+/home/thomas/Desktop/CoinConverter/obj/Debug/net8.0/CoinConverter.AssemblyInfoInputs.cache
+/home/thomas/Desktop/CoinConverter/obj/Debug/net8.0/CoinConverter.AssemblyInfo.cs
+/home/thomas/Desktop/CoinConverter/obj/Debug/net8.0/CoinConverter.csproj.CoreCompileInputs.cache
+/home/thomas/Desktop/CoinConverter/obj/Debug/net8.0/CoinConverter.dll
+/home/thomas/Desktop/CoinConverter/obj/Debug/net8.0/refint/CoinConverter.dll
+/home/thomas/Desktop/CoinConverter/obj/Debug/net8.0/CoinConverter.pdb
+/home/thomas/Desktop/CoinConverter/obj/Debug/net8.0/CoinConverter.genruntimeconfig.cache
+/home/thomas/Desktop/CoinConverter/obj/Debug/net8.0/ref/CoinConverter.dll
